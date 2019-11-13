@@ -5,7 +5,7 @@ from MP_1 import *
 from MP_2 import *
 from MP_3 import *
 from MP_4 import *
-
+#CREATED BY AAYUSH KUMARIA
 r = Tk()
 r.title("Friday")
 r.geometry('500x350')
@@ -71,6 +71,7 @@ def start():
     engine.stop()
     quit()
 
+#CREATED BY AAYUSH KUMARIA
 
 def MGUI():
     Label(frame, bg="Coral1", width=500, height=350).place(x=0, y=0)
