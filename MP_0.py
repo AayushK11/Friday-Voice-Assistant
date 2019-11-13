@@ -19,7 +19,7 @@ frame = Frame(r, width=500, height=350, bg="white")
 frame.place(x=0, y=0)
 img = PhotoImage(file='Micro.gif')
 
-a = "Hey! I'm Your personal assistant, Friday. Click the mic when you're ready to give me a command"
+a = "Hey! I'm Your personal assistant, Friday. I'm Created by Aayush Kumaria as a part of his Mini Project. Click the mic when you're ready to give me a command"
 b = "How can I Assist you?"
 c = "I'm sorry, You weren't audible. Please try again"
 d = "Would you need any other assistance?"
