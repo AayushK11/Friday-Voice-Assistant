@@ -5,5 +5,6 @@ Capable Of:
 3) Getting Weather Information
 4) Getting Information on Stocks
 
-Requires Chromedriver installed and it's location entered in the code
+Requires Chromedriver installed and it's location entered in the code.
+
 Also requires Selenium Extension in Chrome
